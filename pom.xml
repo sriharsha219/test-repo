@@ -3,7 +3,7 @@
   <groupId>personal</groupId>
   <artifactId>mvn-pl</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>mvn-pl Maven Webapp</name>
   <url>http://maven.apache.org</url>
 <distributionManagement>
@@ -19,7 +19,7 @@
 <scm>
 <connection>scm:git:https://github.com/sriharsha219/test-repo.git</connection>
 <developerConnection>scm:git:https://github.com/sriharsha219/test-repo.git</developerConnection>
-    <tag>mvn-pl-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
 <dependencies>
